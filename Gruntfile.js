@@ -1,4 +1,3 @@
-// Generated on 2014-06-05 using generator-angular 0.7.1
 'use strict';
 
 // # Globbing
@@ -62,7 +61,7 @@ module.exports = function (grunt) {
       options: {
         port: 9000,
         // Change this to '0.0.0.0' to access the server from outside.
-        hostname: 'localhost',
+        hostname: '0.0.0.0',
         livereload: 35729
       },
       livereload: {
